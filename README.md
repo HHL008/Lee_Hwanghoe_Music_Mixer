@@ -13,6 +13,14 @@ Creating a Music Mixer with drag and drop functionality to load audio clips and 
 7. updated CSS
 8. updated read me file for checkpoint 1 of the assignment
 
+## Contributing - part 2
+
+1. added in more music icons that I have created
+2. updated html for changing up the images and drop section
+3. updated CSS for the drop section of the music mixer
+4. updated the main JS for adding in the drag and drop function
+5. updated read me file for checkpoint 2 of the assignment
+
 ## Credits
 
 Lee_Hwanghoe
